@@ -27,7 +27,7 @@ nmap is already the newest version (7.91+dfsg1+really7.80+dfsg1-2).
 
 <br/>
 
-nmap এর help মেনু দেখার কমান্ড:
+nmap এর help মেনু দেখার কমান্ড: এছাড়াও রয়েছে `nmap`, `nmap --help`, `man nmap`.
 
     nmap -h
 
