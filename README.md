@@ -2,6 +2,6 @@
 
 ![nmap](images/nmap.png)
 
-nmap টুল ইনস্টল কমান্ড:
+nmap টুল ইনস্টল কমান্ড:<br/>
 
     sudo apt install nmap -y
