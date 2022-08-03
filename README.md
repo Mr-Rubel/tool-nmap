@@ -9,7 +9,7 @@ nmap টুল ইনস্টল কমান্ড:<br/>
 যদি পুর্বেই ইনস্টল করা থাকে তাহলে এমন দেখাবে:
 
 ```
-sudo apt install nmap -y                                                                          ─╯
+sudo apt install nmap -y
 [sudo] password for hunter: 
 Reading package lists... Done
 Building dependency tree... Done
