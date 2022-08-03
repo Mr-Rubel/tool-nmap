@@ -8,8 +8,7 @@ nmap টুল ইনস্টল কমান্ড:<br/>
     sudo apt install nmap -y
 
 
-যদি পুর্বেই ইনস্টল করা থাকে তাহলে এমন দেখাবে:
-
+যদি পুর্বেই ইনস্টল করা থাকে তাহলে এমন দেখাবে:<br/>
 ```
 sudo apt install nmap -y
 [sudo] password for hunter: 
