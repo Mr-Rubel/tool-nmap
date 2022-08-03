@@ -19,4 +19,10 @@ nmap is already the newest version (7.91+dfsg1+really7.80+dfsg1-2).
 0 upgraded, 0 newly installed, 0 to remove and 24 not upgraded.
 
 ```
-<br/><br/>
+<br/>
+
+ভার্শন চেক করার কমান্ড:
+
+    nmap --version
+
+<br/>
