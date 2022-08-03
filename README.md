@@ -3,12 +3,12 @@
 
 ![nmap](images/nmap.png)
 
-nmap টুল ইনস্টল কমান্ড:<br/>
+nmap টুল ইনস্টল কমান্ড:
 
     sudo apt install nmap -y
+<br/><br/>
 
-
-যদি পুর্বেই ইনস্টল করা থাকে তাহলে এমন দেখাবে:<br/>
+যদি পুর্বেই ইনস্টল করা থাকে তাহলে এমন দেখাবে:
 ```
 sudo apt install nmap -y
 [sudo] password for hunter: 
@@ -19,3 +19,4 @@ nmap is already the newest version (7.91+dfsg1+really7.80+dfsg1-2).
 0 upgraded, 0 newly installed, 0 to remove and 24 not upgraded.
 
 ```
+<br/><br/>
